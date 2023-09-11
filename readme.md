@@ -1,6 +1,6 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp for 2023
 
-![Course Logo](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg)
+![Course Logo](https://www.python.org/static/img/python-logo@2x.png)
 
 Olá! Eu sou o Pedro e este é o meu repositório para o curso "100 Days of Code: The Complete Python Pro Bootcamp for 2023" ministrado pela professora Angela Yu na Udemy. Este curso abrange uma ampla variedade de tópicos relacionados ao desenvolvimento em Python e muito mais.
 
